@@ -9,6 +9,7 @@ This dashboard was created for **Job Seekers, Job Transitioners, and Job Swapper
 
 ### Dashboard File
 You can find the file for the dashboard here: [`data_jobs_dashboard.pbix`](data_jobs_dashboard.pbix).  
+Extra dashboard utilizing additional features such as measures, parameters, more DAX implementation. [`Data_Jobs_Dashboard_2.0`](Data_Jobs_Dashboard_2.0).
 
 ## Skills Showcased
 
@@ -43,6 +44,18 @@ This is your mission control for the data job market. It showcases key KPIs like
 
 
 This is the deep-dive page. From the main dashboard, you can drill through to this view to get specific details for a single job title, including salary ranges, work-from-home stats, top hiring platforms, and a global map of job locations.
+
+## Extra Dashboard
+This additional dashboard dives into the skill requirements mentioned in the job postings across different data jobs while maintaining other key postings' details.
+
+<img width="1215" height="692" alt="image" src="https://github.com/user-attachments/assets/3491257a-6afc-4bf5-a91c-d1b15c79097b" />
+
+Implemented parameters and slicers allow for filtering the insights for the country, job title, specifying yearly/ hourly pay, as well as the number/ percentage of jobs requiring specific skills.
+
+<img width="1220" height="686" alt="image" src="https://github.com/user-attachments/assets/c33c31cc-8127-4dc8-adec-1c4e0b2c8fb1" />
+
+
+
 
 ---
 
