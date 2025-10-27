@@ -16,7 +16,7 @@ Extra dashboard utilizing additional features such as measures, parameters, more
 This project was a journey through key Power BI features. Here's a look at what we mastered:
 
 -    Data Transformation (ETL) with Power Query: Cleaned, shaped, and prepared the raw data for analysis by handling blanks, changing data types, and creating new columns.
--    Implicit Measures: Formulated measures to derive key insights and KPIs like `Median Yearly Salary` and `Job Count`.
+-    Implicit/ Explicit Measures: Formulated measures to derive key insights and KPIs like `Median Yearly Salary` and `Job Count`.
 -    Core Charts: Utilized **Column, Bar, Line,** and **Area Charts** to compare job counts and track trends over time.
 -    Geospatial Analysis: Leveraged **Map Charts** to visualize the global distribution of jobs.
 -    KPI Indicators & Tables: Used **Cards** to display key metrics and **Tables** to provide granular, sortable data.
